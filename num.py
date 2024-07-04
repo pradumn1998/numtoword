@@ -108,7 +108,7 @@ def numb2word(nmb):
 
 
    
-
+# use numb2word(5) this function return in word 
 #a = int(input('enter the number: ' ))
 #print(numb2word(a))
     
